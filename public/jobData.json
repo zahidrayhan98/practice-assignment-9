@@ -1,0 +1,162 @@
+
+[
+  {
+    "id": 1,
+    "companyName": "Acme Corporation",
+    "companyLocation": "New York City, NY",
+    "companyLogo": "https://i.ibb.co/cQ0mtyv/Group-10021.png",
+    "jobName":"Web Developer",
+    "jobType": "remote",
+    "jobLocation": "United States",
+    "fulltime": "Fulltime",
+    "ageLimitation": "16-35",
+    "requiredExperience": "2 years",
+    "salary": "$45,000 - $100,000",
+    "publishDate": "1/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "Acme Corporation is seeking a talented software developer to join our team.",
+    "jobResponsibilities": [
+      "Develop and maintain software applications",
+      "Collaborate with cross-functional teams to design, develop, and implement new features",
+      "Participate in code reviews and provide constructive feedback",
+      "Write clean, well-documented code"
+    ],
+    "contactInformation": {
+      "phone": "555-1234",
+      "email": "jobs@acme.com"
+    }
+  },
+  {
+    "id": 2,
+    "companyName": "Widget, Inc.",
+    "companyLocation": "San Francisco, CA",
+    "companyLogo": "https://i.ibb.co/yFTCh9Z/tesla-9-1.png",
+    "jobName":"Software Developer",
+    "jobType": "inside",
+    "jobLocation": "San Francisco, CA",
+    "fulltime": "Fulltime",
+    "ageLimitation": "16-35",
+    "requiredExperience": "2 years",
+    "salary": "$50,000 - $80,000",
+    "publishDate": "2/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "Widget, Inc. is seeking a driven marketing manager to help us grow our business.",
+    "jobResponsibilities": [
+      "Develop and implement marketing strategies to drive sales and increase brand awareness",
+      "Manage social media channels and content marketing initiatives",
+      "Collaborate with sales and product teams to develop product positioning and messaging",
+      "Analyze campaign performance and optimize for better results"
+    ],
+    "contactInformation": {
+      "phone": "555-5678",
+      "email": "jobs@widget.com"
+    }
+  },
+  {
+    "id": 3,
+    "companyName": "Net-Flex",
+    "companyLocation": "Seattle, WA",
+    "companyLogo": "https://i.ibb.co/4KN8Wnq/netflix-4-1.png",
+    "jobName":"Mobile Application Developer",
+    "jobType": "remote",
+    "jobLocation": "United States",
+    "fulltime": "Fulltime",
+    "ageLimitation": "16-35",
+    "requiredExperience": "2 years",
+    "salary": "$60,000 - $90,000",
+    "publishDate": "3/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "Gizmo Enterprises is seeking a skilled UX designer to join our team.",
+    "jobResponsibilities": [
+      "Design and prototype intuitive and engaging user experiences",
+      "Collaborate with product and development teams to ensure designs are feasible and consistent with brand guidelines",
+      "Conduct user research and usability testing to inform design decisions",
+      "Present and defend design decisions to stakeholders"
+    ],
+    "contactInformation": {
+      "phone": "555-9012",
+      "email": "jobs@gizmo.com"
+    }
+  },
+  {
+    "id": 4,
+    "companyName": "ABC Co.",
+    "companyLocation": "Los Angeles, CA",
+    "companyLogo": "https://i.ibb.co/D5RLPJW/google-1-1-1.png",
+    "jobName":"Database Administrator",
+    "jobType": "remote",
+    "jobLocation": "United States",
+    "fulltime": "Fulltime",
+    "ageLimitation": "18-30",
+    "requiredExperience": "2 years",
+    "salary": "$25 - $30 per hour",
+    "publishDate": "4/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "ABC Co. is seeking a part-time administrative assistant to support our team.",
+    "jobResponsibilities": [
+      "Answer and direct phone calls and emails",
+      "Schedule and coordinate appointments and meetings",
+      "Perform basic bookkeeping tasks, such as invoicing and data entry",
+      "Maintain and organize office files and supplies"
+    ],
+    "contactInformation": {
+      "phone": "555-3456",
+      "email": "jobs@abc.com"
+    }
+  },
+  {
+    "id": 5,
+    "companyName": "XYZ, Inc.",
+    "companyLocation": "Boston, MA",
+    "companyLogo": "https://i.ibb.co/cQ0mtyv/Group-10021.png",
+    "jobName":"Systems Analyst",
+    "jobType": "inside",
+    "jobLocation": "Boston, MA",
+    "fulltime": "Fulltime",
+    "ageLimitation": "18-35",
+    "requiredExperience": "2 years",
+    "salary": "$80,000 - $120,000",
+    "publishDate": "5/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "XYZ, Inc. is seeking a talented data analyst to join our team.",
+    "jobResponsibilities": [
+      "Collect and analyze large data sets to identify trends and patterns",
+      "Create and maintain databases and data systems",
+      "Design and implement data visualizations to communicate findings",
+      "Collaborate with stakeholders to develop data-driven solutions to business problems"
+    ],
+    "contactInformation": {
+      "phone": "555-7890",
+      "email": "jobs@xyz.com"
+    }
+  },
+  {
+    "id": 6,
+    "companyName": "PQR Corp.",
+    "companyLocation": "Chicago, IL",
+    "companyLogo": "https://i.ibb.co/4KN8Wnq/netflix-4-1.png",
+    "jobName":"Full Stack Developer",
+    "jobType": "inside",
+    "jobLocation": "Chicago, IL",
+    "fulltime": "Fulltime",
+    "ageLimitation": "18-35",
+    "requiredExperience": "2 years",
+    "salary": "$70,000 - $100,000",
+    "publishDate": "6/3/2023",
+    "applicationDeadline": "4/30/2023",
+    "jobDescription": "PQR Corp. is seeking a motivated project manager to lead our team.",
+    "jobResponsibilities": [
+      "Plan and execute projects from start to finish, ensuring timely delivery and budget adherence",
+      "Coordinate and communicate with stakeholders and team members",
+      "Identify and manage project risks and issues",
+      "Maintain project documentation and report on project status"
+    ],
+    "contactInformation": {
+      "phone": "555-2345",
+      "email": "jobs@pqr.com"
+    }
+  }
+]
+
+
+

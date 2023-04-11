@@ -1,0 +1,36 @@
+{
+  "assignments": [
+    {
+      "name": "Assi-One",
+      "number": 60
+    },
+    {
+      "name": "Assi-Two",
+      "number": 57
+    },
+    {
+      "name": "Assi-Three",
+      "number": 58
+    },
+    {
+      "name": "Assi-Four",
+      "number": 59
+    },
+    {
+      "name": "Assi-Five",
+      "number": 60
+    },
+    {
+      "name": "Assi-Six",
+      "number": 60
+    },
+    {
+      "name": "Assi-Seven",
+      "number": 60
+    },
+    {
+      "name": "Assi-Eight",
+      "number": 60
+    }
+  ]
+}

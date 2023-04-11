@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.my-activeNav-li{
+    @apply bg-blue-700 hover:bg-blue-300 uppercase m-2 p-2 text-white rounded-sm transition delay-150 duration-300 font-semibold cursor-pointer hover:translate-x-1
+}
+.my-defaultNav-li{
+    @apply hover:bg-blue-300 border-2 uppercase m-2 p-2 text-black rounded-lg transition delay-150 duration-300 font-semibold cursor-pointer hover:translate-x-1
+}
+.my-container{
+    @apply w-[95%] mx-auto
+}
+.button-blue{
+    @apply m-2 rounded-lg shadow-lg bg-blue-600 text-slate-50 uppercase hover:bg-blue-400 cursor-pointer
+}
+.button-white{
+    @apply m-2 p-2 rounded-lg shadow-2xl border-[1px] border-slate-400 shadow-gray-900  uppercase hover:bg-blue-400 hover:text-white cursor-pointer
+}
+.ex-button-white{
+    @apply m-1 rounded-lg shadow-2xl border-[1px] border-slate-400 shadow-gray-900  uppercase hover:bg-blue-400 hover:text-white cursor-pointer
+}
+@layer utilities{
+    .title-animate{
+      @apply animate-text bg-gradient-to-r from-cyan-500 via-purple-800 to-cyan-200 bg-clip-text text-transparent 
+    }
+  }
